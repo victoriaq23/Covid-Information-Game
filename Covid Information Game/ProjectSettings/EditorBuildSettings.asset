@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: 27852f827cca14faea2e34f0e06618c2
+  - enabled: 1
+    path: Assets/Scenes/Symptoms.unity
+    guid: 23af73d2bc48448d39400cba7b97145f
+  - enabled: 1
+    path: Assets/Scenes/GoToWork.unity
+    guid: 136052da31e5a4d72a11c95525934ae7
+  - enabled: 1
+    path: Assets/Scenes/YesWork.unity
+    guid: 3c98bd230ac31465aa8eca2eff916515
+  - enabled: 1
+    path: Assets/Scenes/NoWork.unity
+    guid: da8c2ff98daea4bd181fbde4846ae7db
+  - enabled: 1
+    path: Assets/Scenes/StartRoom.unity
+    guid: 3f4b041ef8ab14eb8850390b81a7ab5f
+  - enabled: 1
+    path: Assets/Scenes/Mask.unity
+    guid: 12cf81dd7877d4a9d9b6ab94cf9f6789
+  - enabled: 1
+    path: Assets/Scenes/YesMask.unity
+    guid: b7344e983e8d6458daaac5ee1fa00cdf
+  - enabled: 1
+    path: Assets/Scenes/NoMask.unity
+    guid: b15f16d173b8d46e988e0a7e7f07ce74
+  - enabled: 1
+    path: Assets/Scenes/VehicleRoom.unity
+    guid: 290dbe00aaf134e81ae1cb2eb73c6db4
+  - enabled: 1
+    path: Assets/Scenes/Bus.unity
+    guid: d3e36bfb8603f486ca60aeaee6829123
+  - enabled: 1
+    path: Assets/Scenes/Sit.unity
+    guid: 8e66f76ba574f494eba9309b4790a828
+  - enabled: 1
+    path: Assets/Scenes/Stand.unity
+    guid: 3f3313d7d5b66435184688895713312f
+  - enabled: 1
+    path: Assets/Scenes/WorkRoom.unity
+    guid: f288c0487cd274f62bffe47ce38ef698
+  - enabled: 1
+    path: Assets/Scenes/WashHands.unity
+    guid: 248482ce167e54e3aa9874163a64f294
+  - enabled: 1
+    path: Assets/Scenes/YesWash.unity
+    guid: 1035d088658ef42588ba50f51f85c90d
+  - enabled: 1
+    path: Assets/Scenes/NoWash.unity
+    guid: 594b2b2af0cd444f298c28ce64542b18
+  - enabled: 1
+    path: Assets/Scenes/Elevator.unity
+    guid: a316637282f80413d804b4f7f7263e20
+  - enabled: 1
+    path: Assets/Scenes/Enter.unity
+    guid: 071112a9b47134078a72b262288be1f9
+  - enabled: 1
+    path: Assets/Scenes/Wait.unity
+    guid: d09da9a7f7bd74ac7afdd614856165fa
+  - enabled: 1
+    path: Assets/Scenes/Success.unity
+    guid: f5a3c5081ae434b01a765fed3404bbdd
+  m_configObjects: {}
